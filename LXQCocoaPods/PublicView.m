@@ -17,7 +17,7 @@
     return self;
 }
 - (void)addAllView {
-    self.backgroundColor = [UIColor redColor];
+    self.backgroundColor = [UIColor yellowColor];
 }
 /*
 // Only override drawRect: if you perform custom drawing.
